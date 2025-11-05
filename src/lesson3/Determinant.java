@@ -2,7 +2,7 @@ package lesson3;
 
 import java.util.Scanner;
 
-public class determinant {
+public class Determinant {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         int size = 0;

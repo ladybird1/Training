@@ -1,0 +1,44 @@
+Enter the 1 ship with 4 cells:
+Enter coordinate in format x,y. For example "1,2"
+0,0
+Enter coordinate in format x,y. For example "1,2"
+0,1
+Enter coordinate in format x,y. For example "1,2"
+0,2
+Enter coordinate in format x,y. For example "1,2"
+0,3
+Enter the 2 ships with 3 cells:
+Enter coordinate in format x,y. For example "1,2"
+3,1
+Enter coordinate in format x,y. For example "1,2"
+4,1
+Enter coordinate in format x,y. For example "1,2"
+5,1
+Enter coordinate in format x,y. For example "1,2"
+3,5
+Enter coordinate in format x,y. For example "1,2"
+3,6
+Enter coordinate in format x,y. For example "1,2"
+3,7
+Enter the 3 ships with 2 cells:
+Enter coordinate in format x,y. For example "1,2"
+0,7
+Enter coordinate in format x,y. For example "1,2"
+0,8
+Enter coordinate in format x,y. For example "1,2"
+6,4
+Enter coordinate in format x,y. For example "1,2"
+6,5
+Enter coordinate in format x,y. For example "1,2"
+6,8
+Enter coordinate in format x,y. For example "1,2"
+6,9
+Enter the 4 ships with 1 cells:
+Enter coordinate in format x,y. For example "1,2"
+2,3
+Enter coordinate in format x,y. For example "1,2"
+2,9
+Enter coordinate in format x,y. For example "1,2"
+8,2
+Enter coordinate in format x,y. For example "1,2"
+9,6
